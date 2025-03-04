@@ -1,3 +1,19 @@
+- [Purpose ENG](#purpose-eng)
+  * [Eesmärk EST](#eesm-rk-est)
+- [Tools](#tools)
+- [Result](#result)
+- [Further Developemnt - Maybe?](#further-developemnt---maybe-)
+- [Lessons](#lessons)
+- [Copilot, ChatGPT and I](#copilot--chatgpt-and-i)
+  * [Start with Copilot:](#start-with-copilot-)
+  * [Ok, let the ChatGPT step in](#ok--let-the-chatgpt-step-in)
+    + [Confusion](#confusion)
+  * [Copilot, here we go again!](#copilot--here-we-go-again-)
+  * [I](#i)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Purpose ENG
 
 Each month begins with sending my water readings by email to the accountant of the housing cooperative.
