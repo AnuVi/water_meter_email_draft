@@ -78,7 +78,8 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 # Copilot, ChatGPT and I
 
 
-## Start with Copilot:
+
+## Start with Copilot
 :heavy_check_mark: It nicely helped me modify months into Estonian.
 
 :heavy_check_mark: With message body text, it was a little bit longer process. The firstresult was with html-tags. Then the message looked like this.
@@ -91,6 +92,9 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 :x: Somewhere during the process I celebrated the progress and thanked it. Then gave the new prompt and suddenly Copilot explained me how to do it in Excel. I do not know was it celebration/thank-you part or some keywords I used for prompting something to do using Excel in earlier conversions.
 
 :x: Now replacing ‘Külm vesi/Cold water: 30.05 31.05 1.00’ with line ‘Külm vesi/Cold water: 31.05 blank 00.00’. In testing it got correct version but running the script in Gmail, it still displayed old version. And here, Copilot messed up. It guided me to add _Labels_ to emails. It meant that if I added labels to three emails I go three drafts. And still no signs of changes in body message.
+
+
+
 
 ## Ok, let the ChatGPT step in
 
@@ -106,12 +110,17 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 - One moment I noticed that ChatGPT lost some of my helperfunctions and did not provide a full script. But no errors in Apps Script and all worked.
   - Later I noticed that also Copilot does that but then I just scrolled with my mouse and Copilot continued typing.
 - I also developed idea bit further and then decided to use earlier version. So where was a mess how to restore previous working code?
-- And I had changed only one paragraph, but I wanted changes also in 4th/ Warm water line.
+- And I had changed only one paragraph, but I wanted changes also in 4th/ Hot water line.
+
+
+  
 
 ## Copilot, here we go again!
 :x: I once copied again the code to Copilot. It added something to the script and that part caused errors. I had to clean a little bit of code by myself to make it without errors.
 
 :heavy_check_mark: I managed to change the 4th paragraph and also removed breaks after 7th,8th and 9th paragraph.  But I’ll think it still suggested some unnecessary function which still caused error till the end
+
+
 
 ## I
 As the first draft was successfully created, I manually triggered also next draft-email. And ... it did not work again. So, I preferred GhatGPT first. Now I was using my new layout in mails - there were 7 paragraphs instead 9 and that caused the error. I can't remember, if changing paragraph length number was my idea or Copilots. And at first, there were no logging-errors from Apps Script, that is, why there are so many error loggings in code.
