@@ -136,10 +136,10 @@ Eesmärgiks oli luu iga kuu esimesel päeval GMailis e-posti mustand, kus:
 - teema: näidud + käesolev kuu eesti keeles + käesolev aasta
 - kirja sisu:
    - võetakse viimati saadetud näitude emailist
-   - külma vee vana näit 30.05 31.05 1.00 asendatakse 31.05 blank 00.00. Blank'i asendab inimene uue näiduga ja ka arvutab inimene.
+   - külma vee vana näit 30.05 31.05 1.00 asendatakse 31.05 blank 0.00. Blank'i asendab inimene uue näiduga ja ka arvutab inimene.
    - sama tehakse sooja vee reaga
  
-  Miks mitte arvutused ka automaatseks?
+Miks mitte arvutused ka automaatseks?
   -  Dünaamiliselt (ehk trükkides arvu ja siis arvutab) seda Gmailis teha ei saa. Küll aga saab GSheets+Gmail. Hetkel jäi see mõte poolikuks, sest ... laiskus. Nõuab inimeselt ümberõppimist ja kahes keskkonnas tegutsemist.
   - Lihtsama lahendusena saab liita juurde ka suvalise näidu, teha arvutustehe ja siis aeg-ajalt korrigeerida, aga hetkel jäi nii.
 
