@@ -64,17 +64,25 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 
 ## Start with Copilot:
 :heavy_check_mark: It nicely helped me modify months into Estonian.
+
 :heavy_check_mark: With message body text, it was a little bit longer process. The firstresult was with html-tags. Then the message looked like this.
   ![image1](https://github.com/user-attachments/assets/662b94c2-8626-4a97-8de4-b07ae21e4ad9)
 Maybe, I should have asked plain text version right away? After that, all text was in one row. But I wanted into the paragraphs.
+
 :heavy_check_mark: It offered different solutions based on result or error message. And Copilot also guided to debug, run different test script or read console messages.
+
 :x: Somewhere during the process I celebrated the progress and thanked it. Then gave the new prompt and suddenly Copilot explained me how to do it in Excel. I do not know was it celebration/thank-you part or some keywords I used for prompting something to do using Excel in earlier conversions.
+
 :x: Now replacing ‘Külm vesi/Cold water: 30.05 31.05 1.00’ with line ‘Külm vesi/Cold water: 31.05 blank 00.00’. In testing it got correct version but running the script in Gmail, it still displayed old version. And here, Copilot messed up. It guided me to add _Labels_ to emails. It meant that if I added labels to three emails I go three drafts. And still no signs of changes in body message.
 
 ## Ok, let the ChatGPT step in
+
 :heavy_check_mark: The first prompt delivered the working solution to my line modifing problem.
+
 :heavy_check_mark: Several ideas was offered, how to make the calculation part working.
+
 :x: It is  not actually minus, but too much information. Each time then ChatGPT provided solution it had thorough explanations. I actually did not read it.
+
 :x: I used free version and was not logged in, so one moment it started to redirect me on logging page instead of helping.
 
 ### Confusion
@@ -85,6 +93,7 @@ Maybe, I should have asked plain text version right away? After that, all text w
 
 ## Copilot, here we go again!
 :x: I once copied again the code to Copilot. It added something to the script and that part caused errors. I had to clean a little bit of code by myself to make it without errors.
+
 :heavy_check_mark: I managed to change the 4th paragraph and also removed breaks after 7th,8th and 9th paragraph.  But I’ll think it still suggested some unnecessary function which still caused error till the end
 
 ## I
