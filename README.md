@@ -67,7 +67,8 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 
 :heavy_check_mark: With message body text, it was a little bit longer process. The firstresult was with html-tags. Then the message looked like this.
   ![image1](https://github.com/user-attachments/assets/662b94c2-8626-4a97-8de4-b07ae21e4ad9)
-Maybe, I should have asked plain text version right away? After that, all text was in one row. But I wanted into the paragraphs.
+
+:heavy_check_mark: Maybe, I should have asked plain text version right away? After that, all text was in one row. But I wanted into the paragraphs.
 
 :heavy_check_mark: It offered different solutions based on result or error message. And Copilot also guided to debug, run different test script or read console messages.
 
@@ -97,7 +98,7 @@ Maybe, I should have asked plain text version right away? After that, all text w
 :heavy_check_mark: I managed to change the 4th paragraph and also removed breaks after 7th,8th and 9th paragraph.  But I’ll think it still suggested some unnecessary function which still caused error till the end
 
 ## I
-As the first draft was successfully created, I manually triggered also next draft-email. And ... it did not work again. So, I preferred GhatGPT first. As I was using my new layout in mails - there were 7 paragraphs instead 9 and that caused the error. I can't remember, if changing paragraph length number was my idea or Copilots. And at first, there were no logging-errors from Apps Script, that is, why there are so many error loggings in code.
+As the first draft was successfully created, I manually triggered also next draft-email. And ... it did not work again. So, I preferred GhatGPT first. Now I was using my new layout in mails - there were 7 paragraphs instead 9 and that caused the error. I can't remember, if changing paragraph length number was my idea or Copilots. And at first, there were no logging-errors from Apps Script, that is, why there are so many error loggings in code.
 
 
 
