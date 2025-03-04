@@ -1,5 +1,4 @@
 - [Purpose ENG](#purpose-eng)
-  * [Eesmärk EST](#eesm-rk-est)
 - [Tools](#tools)
 - [Result](#result)
 - [Further Developemnt - Maybe?](#further-developemnt---maybe-)
@@ -10,6 +9,7 @@
     + [Confusion](#confusion)
   * [Copilot, here we go again!](#copilot--here-we-go-again-)
   * [I](#i)
+- [Eesmärk EST](#eesm-rk-est)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -85,7 +85,7 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 :heavy_check_mark: With message body text, it was a little bit longer process. The firstresult was with html-tags. Then the message looked like this.
   ![image1](https://github.com/user-attachments/assets/662b94c2-8626-4a97-8de4-b07ae21e4ad9)
 
-:heavy_check_mark: Maybe, I should have asked plain text version right away? After that, all text was in one row. But I wanted into the paragraphs.
+:heavy_check_mark: Maybe, I should have asked plain text version right away? After that, all text was in one row. But I wanted paragraphs.
 
 :heavy_check_mark: It offered different solutions based on result or error message. And Copilot also guided to debug, run different test script or read console messages.
 
@@ -125,6 +125,25 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 ## I
 As the first draft was successfully created, I manually triggered also next draft-email. And ... it did not work again. So, I preferred GhatGPT first. Now I was using my new layout in mails - there were 7 paragraphs instead 9 and that caused the error. I can't remember, if changing paragraph length number was my idea or Copilots. And at first, there were no logging-errors from Apps Script, that is, why there are so many error loggings in code.
 
+
+
+# Eesmärk EST
+Automatiseerimine isiklikus elus - veenäitude saatmine korteriühistule. Väike, aga tüütu ülesanne. Mitu korda olete teie vigadega kopeerinud e-posti aadressi,
+kuhu näidud edastatakse?
+
+Eesmärgiks oli luu iga kuu esimesel päeval GMailis e-posti mustand, kus:
+- saaja: vastav e-posti aadress
+- teema: näidud + käesolev kuu eesti keeles + käesolev aasta
+- kirja sisu:
+   - võetakse viimati saadetud näitude emailist
+   - külma vee vana näit 30.05 31.05 1.00 asendatakse 31.05 blank 00.00. Blank'i asendab inimene uue näiduga ja ka arvutab inimene.
+   - sama tehakse sooja vee reaga
+ 
+  Miks mitte arvutused ka automaatseks?
+  -  Dünaamiliselt (ehk trükkides arvu ja siis arvutab) seda Gmailis teha ei saa. Küll aga saab GSheets+Gmail. Hetkel jäi see mõte poolikuks, sest ... laiskus. Nõuab inimeselt ümberõppimist ja kahes keskkonnas tegutsemist.
+  - Lihtsama lahendusena saab liita juurde ka suvalise näidu, teha arvutustehe ja siis aeg-ajalt korrigeerida, aga hetkel jäi nii.
+
+ Abilised: Copilot, ChatGPT, Google Apps Script, Gmail
 
 
 
