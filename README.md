@@ -29,7 +29,7 @@ So, I decided to use **AI to help me code a script which creates an email draft 
     - origin line: Külm vesi/Cold water: 30.05 31.05 1.00 is replaced with line Külm vesi/Cold water: 31.05 blank 00.00
     - the same is done with Soe vesi/Hot water.
 
-The second part was to trigger creating email-draft on the first day of each month. It is done inside App Script.
+The second part was to trigger creating email-draft on the first day of each month. It is done inside Apps Script.
 
 
 
