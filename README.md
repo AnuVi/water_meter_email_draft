@@ -72,7 +72,7 @@ But these are ideas for the future. At the moment I am quite happy with my curre
 - Please, please, please use **Copy/Kopeeri button** instead of selecting the text with CTRL+C/CTRL+V while copying script from an AI-helper.
 - If it feels like AI has left out some code - keep scrolling - it keeps writing the code.
 - Take small steps and as usual, save a copy of the working script somewhere separately.
-- And in some places AI "reads your mind" and other places it surprises you, that it does not. For example if you ask it to correct spelling mistakes several times, it does it without repeating the prompt. But then, suddenly I need a synonym and I do not understand why it still provides spelling instead. I did not say, that I want a synonym this time.
+- And in some places AI "reads your mind" and other places it surprises you, that it does not. For example if you ask it to correct spelling mistakes several times, it does it without repeating the prompt. But then, suddenly I need a synonym and I do not understand why it still provides spelling instead. I did not say, that I wanted a synonym this time.
 
   
 
