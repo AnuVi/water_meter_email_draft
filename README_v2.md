@@ -5,34 +5,36 @@ Each month begins with sending my water readings by email to the accountant of t
 
 I can't remeber when it was, but I was ready to unlearn my actions during submitting my metrics. 
 
-Process at the moment:
-1. Open _Google Sheets_.
+# Process at the moment:
+*1.* Open _Google Sheets_.
 - Click New Row/Uus rida → A new row is created with the first day of the current month as the date. The previous month's final readings are automatically carried over as the starting readings for hot and cold water.
 - Enter the final readings for Hot and Cold Water.
 - Click Create Email Draft → The corresponding email draft is created in Gmail.
-2. Open _Gmail Drafts_
+*2.* Open _Gmail Drafts_
 - control the data
-- Click Send-button
-   
+- Click Send-button.
 
-#Tools
+# Video
+Sample video
+
+# Tools
 Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version.
 
 
+#Eesmärk
+[Eelmise katsetuse edasiarendus](https://github.com/AnuVi/water_meter_email_draft/blob/main/README_v1.md#eesm%C3%A4rk-est).
 
+Nüüdne versioon:
+📂 Avan Google Sheetsi:
+   🖱️ klõpsan Uus rida -> tekitatakse selle kuu 1. kuupäevaga rida,  kus olemas sooja ja külma vee algusnäidud, mis võetud eelmisest tabeli reast.
+    ✍ sisestan sooja ja külma vee lõppnäidud.
+     🖱️ klõpsan E-posti mustand -> tekitatakse gmaili vastav mustand.
+📧 Avan Gmaili mustandid  -> 🖱️klõpsan "Saada" -nuppu.
+
+# Tööriistad
 Kasutatud: Google Sheets, Gmail, Google Apps Script, ChatGPT tasuta ja sisselogimata versioon. 
 
-It ment:
-- setting up Google Sheets:
-  - Button
+#Script
+[Script_v2.js](https://github.com/AnuVi/water_meter_email_draft/blob/main/script_v2.js)
 
-Although it is a very small task, it is still repetitive and annoying. For example, several times I have copied the accountant’s email incorrectly.
 
-So, I decided to use **AI to help me code a script which creates an email draft in Gmail** with:
-
-- _subject line_: näidud/water meter readings + current month in Estonian + current year
-- _recipient_: accountant’s mail-address 
-- _body_:
-    - is taken from last sent email which subject is “näidud/water meter readings…”
-    - original line: Külm vesi/Cold water: 30.05 31.05 1.00 is replaced with line Külm vesi/Cold water: 31.05 blank 00.00
-    - the same is done with Soe vesi/Hot water.
