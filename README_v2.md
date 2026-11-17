@@ -1,26 +1,25 @@
-Read: How it all started?
+[Read: How it all started?](https://github.com/AnuVi/water_meter_email_draft/blob/main/README_v1.md)
 
 # Purpose ENG
 Each month begins with sending my water readings by email to the accountant of the housing cooperative.
 
 I can't remeber when it was, but I was ready to unlearn my actions during submitting my metrics. 
+
 Process at the moment:
 1. Open _Google Sheets_.
--- Click New Row/Uus rida → A new row is created with the first day of the current month as the date. The previous month's final readings are automatically carried over as the starting readings for hot and cold water.
--- Enter the final readings for Hot and Cold Water.
--- Click Create Email Draft → The corresponding email draft is created in Gmail.
-2. Open _Gmail Drafts_.
---  _subject line_: näidud/water meter readings + current month in Estonian + current year
--- _recipient_: accountant’s mail-address 
--- _body_:
-   -- text
-   -- calculated metrics
-   -- my name
+- Click New Row/Uus rida → A new row is created with the first day of the current month as the date. The previous month's final readings are automatically carried over as the starting readings for hot and cold water.
+- Enter the final readings for Hot and Cold Water.
+- Click Create Email Draft → The corresponding email draft is created in Gmail.
+2. Open _Gmail Drafts_
+- control the data
+- Click Send-button
    
-  - Click the Send button.
 
 #Tools
-Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version
+Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version.
+
+
+
 Kasutatud: Google Sheets, Gmail, Google Apps Script, ChatGPT tasuta ja sisselogimata versioon. 
 
 It ment:
