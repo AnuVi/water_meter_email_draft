@@ -6,11 +6,12 @@ Each month begins with sending my water readings by email to the accountant of t
 I can't remeber when it was, but I was ready to unlearn my actions during submitting my metrics. 
 
 ## Process at the moment:
--Open _Google Sheets_.
+- Open _Google Sheets_.
   - Click New Row/Uus rida → A new row is created with the first day of the current month as the date. The previous month's final readings are automatically carried over as the starting readings for hot and cold water.
   - Enter the final readings for Hot and Cold Water.
   - Click Create Email Draft → The corresponding email draft is created in Gmail.
--Open _Gmail Drafts_
+    
+- Open _Gmail Drafts_
   - Control the data
   - Click Send-button.
 
