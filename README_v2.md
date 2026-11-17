@@ -19,7 +19,10 @@ I can't remeber when it was, but I was ready to unlearn my actions during submit
 Coming
 
 ## Tools
-Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version.
+- Google Sheets
+- Gmail
+- Google Apps Script
+- ChatGPT free and unlogged version.
 
 ## Script
 [Script_v2.js](https://github.com/AnuVi/water_meter_email_draft/blob/main/script_v2.js)
@@ -27,17 +30,20 @@ Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version.
 # Eesmärk
 [Eelmise katsetuse edasiarendus](https://github.com/AnuVi/water_meter_email_draft/blob/main/README_v1.md#eesm%C3%A4rk-est).
 
-# Hetke versioon:
+## Hetke versioon:
 - 📂 Avan Google Sheetsi:
     -🖱️ klõpsan Uus rida -> tekitatakse selle kuu 1. kuupäevaga rida,  kus olemas sooja ja külma vee algusnäidud, mis võetud eelmisest tabeli reast.
     - ✍ sisestan sooja ja külma vee lõppnäidud.
     - 🖱️ klõpsan E-posti mustand -> tekitatakse gmaili vastav mustand.
 - 📧 Avan Gmaili mustandid  -> 🖱️klõpsan "Saada" -nuppu.
 
-# Tööriistad
-Kasutatud: Google Sheets, Gmail, Google Apps Script, ChatGPT tasuta ja sisselogimata versioon. 
+## Tööriistad
+- Google Sheets
+- Gmail
+- Google Apps Script
+- ChatGPT tasuta ja sisselogimata versioon. 
 
-# Script
+## Script
 [Script_v2.js](https://github.com/AnuVi/water_meter_email_draft/blob/main/script_v2.js)
 
 
