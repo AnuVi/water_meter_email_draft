@@ -9,7 +9,7 @@
     + [Confusion](#confusion)
   * [Copilot, here we go again!](#copilot--here-we-go-again-)
   * [I](#i)
-- [Eesmärk EST](#eesm-rk-est)
+- [Eesmärk EST](#eesmärk-est)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
