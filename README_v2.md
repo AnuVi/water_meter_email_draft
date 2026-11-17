@@ -28,11 +28,11 @@ Google Sheets, Gmail, Google Apps Script, ChatGPT free and unlogged version.
 [Eelmise katsetuse edasiarendus](https://github.com/AnuVi/water_meter_email_draft/blob/main/README_v1.md#eesm%C3%A4rk-est).
 
 # Hetke versioon:
-📂 Avan Google Sheetsi:
-   🖱️ klõpsan Uus rida -> tekitatakse selle kuu 1. kuupäevaga rida,  kus olemas sooja ja külma vee algusnäidud, mis võetud eelmisest tabeli reast.
-    ✍ sisestan sooja ja külma vee lõppnäidud.
-     🖱️ klõpsan E-posti mustand -> tekitatakse gmaili vastav mustand.
-📧 Avan Gmaili mustandid  -> 🖱️klõpsan "Saada" -nuppu.
+- 📂 Avan Google Sheetsi:
+    -🖱️ klõpsan Uus rida -> tekitatakse selle kuu 1. kuupäevaga rida,  kus olemas sooja ja külma vee algusnäidud, mis võetud eelmisest tabeli reast.
+    - ✍ sisestan sooja ja külma vee lõppnäidud.
+    - 🖱️ klõpsan E-posti mustand -> tekitatakse gmaili vastav mustand.
+- 📧 Avan Gmaili mustandid  -> 🖱️klõpsan "Saada" -nuppu.
 
 # Tööriistad
 Kasutatud: Google Sheets, Gmail, Google Apps Script, ChatGPT tasuta ja sisselogimata versioon. 
