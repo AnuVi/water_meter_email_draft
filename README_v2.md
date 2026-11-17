@@ -1,6 +1,6 @@
 [Read: How it all started?](https://github.com/AnuVi/water_meter_email_draft/blob/main/README_v1.md)
 
-# Purpose ENG
+# Purpose 
 Each month begins with sending my water readings by email to the accountant of the housing cooperative.
 
 I can't remeber when it was, but I was ready to unlearn my actions during submitting my metrics. 
